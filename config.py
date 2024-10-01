@@ -1,0 +1,5 @@
+DATA_PATH = "./data"
+CHECKPOINTS_PATH = "./checkpoints"
+BATCH_SIZE = 16
+EPOCHS = 50
+IMAGE_SIZE = (256, 256)
